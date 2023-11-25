@@ -43,6 +43,7 @@ export default function LivroLista() {
   };
 
   const excluir = (livro) => {
+    console.log('Excluir livro:', livro);
     const controleLivro = new ControleLivros();
     controleLivro.excluir(livro.codigo); // Exclui permanentemente o livro
     atualizarLivros();
