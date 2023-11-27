@@ -1,3 +1,6 @@
+#Pasta já com react e pasta separada com next.js (Livros-Next)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
